@@ -69,6 +69,8 @@ Before running the scripts, ensure you have the following installed:
 
 * **`export_to.py`:** Exports MPP Solar inverter data to EmonCMS and other locations. This script serves as an example and can be adapted for other platforms.
 
+* **`adc.py`:**  Reads an analogue to digital converter to read in a an analogue sensor.  This script can be used as a template for other sensors.
+
 ## Contributing
 
 Contributions are welcome! If you find a bug or have an idea for a new data destination integration, please open an issue or submit a pull request.
