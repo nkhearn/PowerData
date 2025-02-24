@@ -37,7 +37,7 @@ Before running the scripts, ensure you have the following installed:
 1.  **Clone the repository:**
 
     ```bash
-    git clone [repository URL]
+    git clone https://github.com/nkhearn/PowerData.git
     cd PowerData
     ```
 
