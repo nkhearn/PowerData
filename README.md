@@ -19,7 +19,7 @@ This repository contains tools and scripts to collect data from MPP Solar invert
 Before running the scripts, ensure you have the following installed:
 
 * **Python 3.6+:** Python is required to run the scripts.
-* **`mpp-solar`:** This software is essential for communicating with your MPP Solar inverter. Install it according to its documentation.
+* **`[mpp-solar](https://github.com/jblance/mpp-solar)`:** This software is essential for communicating with your MPP Solar inverter. Install it according to its documentation.
     * You can install it via pip: `pip install mpp-solar`
 * **Python Libraries:** Install the required Python libraries using pip:
 
