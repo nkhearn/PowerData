@@ -1,6 +1,6 @@
 # PowerData
 
-This project provides Python scripts for exporting data from MPP Solar inverters to custom locations, such as EmonCMS or other custom data sinks, leveraging the `mpp-solar` software.
+This project provides Python scripts for exporting data from MPP Solar inverters to custom locations, such as EmonCMS or other custom data sinks, leveraging the [mpp-solar](https://github.com/jblance/mpp-solar) software.
 
 ## Description
 
@@ -8,7 +8,7 @@ This repository contains tools and scripts to collect data from MPP Solar invert
 
 **Key Features:**
 
-* Data retrieval using `mpp-solar`.
+* Data retrieval using [mpp-solar](https://github.com/jblance/mpp-solar).
 * Customizable data formatting and export.
 * Support for exporting to EmonCMS (example provided).
 * Extensible architecture for adding support for other data destinations.
@@ -19,7 +19,7 @@ This repository contains tools and scripts to collect data from MPP Solar invert
 Before running the scripts, ensure you have the following installed:
 
 * **Python 3.6+:** Python is required to run the scripts.
-* **`[mpp-solar](https://github.com/jblance/mpp-solar)`:** This software is essential for communicating with your MPP Solar inverter. Install it according to its documentation.
+* **`mpp-solar`:** This software is essential for communicating with your MPP Solar inverter. Install it according to its documentation.
     * You can install it via pip: `pip install mpp-solar`
 * **Python Libraries:** Install the required Python libraries using pip:
 
