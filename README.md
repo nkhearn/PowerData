@@ -24,7 +24,7 @@ Before running the scripts, ensure you have the following installed:
 * **Python Libraries:** Install the required Python libraries using pip:
 
     ```bash
-    pip install requests mpp-solar
+    pip install requests mpp-solar json subprocess
     ```
 
     You may need to add additional libraries depending on the exact scripts you use, and if you are using a new endpoint/data destination.
