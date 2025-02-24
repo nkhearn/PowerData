@@ -71,6 +71,8 @@ Before running the scripts, ensure you have the following installed:
 
 * **`adc.py`:**  Reads an analogue to digital converter to read in a an analogue sensor.  This script can be used as a template for other sensors.
 
+* **`Flask_app.py`:** A simple Flask app endpoint that can be uploaded to [PythonAnywhere](https://pythonanywhere.com/) as a web app.
+
 ## Contributing
 
 Contributions are welcome! If you find a bug or have an idea for a new data destination integration, please open an issue or submit a pull request.
